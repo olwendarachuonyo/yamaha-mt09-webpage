@@ -36,7 +36,8 @@ header a{
 header li{
   display: inline;
   padding: 0 20px 0 20px;
-  float: left;
+  margin: 0 auto;
+  /* float: left; */
 }
 
 header #Title{
@@ -44,7 +45,8 @@ header #Title{
 }
 
 header nav{
-  text-align: center;
+  /* text-align: center; */
+
   /* float: left; */
 }
 
